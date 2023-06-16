@@ -2,11 +2,11 @@
 Statistical Analysis of US Economic Data using R: Case Study
 
 
-Data Used -
+**Data Used -**
 
 [Places Rated Almanac](https://www.americansforthearts.org/by-program/reports-and-data/legislation-policy/naappd/places-rated-almanac-your-guide-to-finding-the-best-places-to-live-in-america-0) : The dataset provides rankings and comparisons for 329 metropolitan areas in the United States and Canada across various factors. These factors include living costs, job outlook, housing, transportation, education, health care, crime, the arts, recreation, and climate. The dataset offers information and analysis on each of these aspects, allowing readers to assess and compare the quality of life and amenities in different metropolitan areas. 
 
-Methodology -
+**Methodology -**
 1. Data Transformation
 2. Data Visualisation on transformed and untransformed data
 3. Principal Component Analysis:
@@ -16,7 +16,7 @@ Methodology -
 4. Factor Analysis
 5. Canonical Correlation Analysis
 
-Case Study Conclusion -
+**Case Study Conclusion -**
 
 | Rank | City Names                        | PC1   |
 |------|----------------------------------|-------|
